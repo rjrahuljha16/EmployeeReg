@@ -29,8 +29,8 @@ input[type=text], input[type=password] {
 	position: fixed;
 	left: 0;
 	top: 0;
-	width: 99%;
-	background-color: lightred;
+	width: 100%;
+	background-color: lightblue;
 	color: white;
 	text-align: center;
 	padding: 0px;
