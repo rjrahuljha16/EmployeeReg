@@ -29,7 +29,7 @@ input[type=text], input[type=password] {
 	position: fixed;
 	left: 0;
 	top: 0;
-	width: 100%;
+	width: 99%;
 	background-color: lightred;
 	color: white;
 	text-align: center;
