@@ -12,11 +12,9 @@ response.setHeader("Pragma","no-cache"); //HTTP 1.0 backward compatibility
 body {
 	font-family: Arial, Helvetica, sans-serif;
 }
-
 form {
 	border: 3px solid #f1f1f1;
 }
-
 input[type=text], input[type=password] {
 	width: 100%;
 	padding: 12px 20px;
@@ -24,7 +22,6 @@ input[type=text], input[type=password] {
 	border: 1px solid #ccc;
 	box-sizing: border-box;
 }
-
 .header {
 	position: fixed;
 	left: 0;
